@@ -13,6 +13,7 @@ graphics from raw, filtered, and filtered + optimized (with results from main.py
 and comparison stars fluxes (multiple LS periodograms, phase-foldings, index bar charts, etc.).
 
 As stated, details can be found in each of the provided codes. 
+External libraries include: numpy, astropy and matplotlib.
 
 examples_TZ_Ari contains some examples using TZ Ari differential photometry
 data of graphics that can be obtained combining plotter.py and main.py.
@@ -20,3 +21,4 @@ data of graphics that can be obtained combining plotter.py and main.py.
 data contains the original (and, in some cases, cropped) photometry files
 generated with AstroImageJ from .FITS images taken at Montsec Astronomical Observatory (Catalonia),
 corresponding to the 4 studied objects in the thesis: Wolf 1069, TOI-1266, TZ Ari and GJ 555. 
+
