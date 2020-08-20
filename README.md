@@ -1,4 +1,4 @@
-# photometry-data-optimization
+# Photometry Data Optimization Utilities (PDOU)
 Filtering and star selection utilities for differential photometry data optimization (as part of my Bachelor's Thesis in Physics).
 
 All programs are (extensively) commented. 
